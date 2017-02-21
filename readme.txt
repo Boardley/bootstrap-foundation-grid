@@ -1,3 +1,1 @@
-My file contents.
-
-Plan 1
+Basic 1170 grid layout template for people who still use Adobe Fireworks and want to create layouts with Bootstrap or Foundation.
